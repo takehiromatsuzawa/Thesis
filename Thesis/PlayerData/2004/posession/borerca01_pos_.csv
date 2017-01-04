@@ -1,0 +1,4 @@
+,season,TOT,age,corsi_for,corsi_against,corsi_pct,corsi_rel_pct,fenwick_for,fenwick_against,fenwick_pct,fenwick_rel_pct,on_ice_shot_pct,on_ice_sv_pct,pdo,zs_offense_pct,zs_defense_pct
+1,2007-08,CAR,22,147,115,56.1,-4.3,111,88,55.8,-3.0,7.4,86.6,94.0,63.4,36.6
+2,2008-09,CAR,23,20,33,37.7,-11.,16,22,42.1,-8.7,10.0,92.9,102.,37.5,62.5
+3,2009-10,CAR,24,16,26,38.1,-10.,10,16,38.5,-6.5,0.0,91.7,91.7,83.3,16.7

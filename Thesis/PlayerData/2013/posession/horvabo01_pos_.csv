@@ -1,0 +1,4 @@
+,season,TOT,age,corsi_for,corsi_against,corsi_pct,corsi_rel_pct,fenwick_for,fenwick_against,fenwick_pct,fenwick_rel_pct,on_ice_shot_pct,on_ice_sv_pct,pdo,zs_offense_pct,zs_defense_pct
+1,2014-15,VAN,19,633,797,44.3,-5.6,489,571,46.1,-4.3,8.0,91.1,99.0,46.6,53.4
+2,2015-16,VAN,20,900,1066,45.8,-2.1,664,833,44.4,-3.1,8.4,88.7,97.1,43.0,57.0
+3,2016-17,VAN,21,283,297,48.8,-1.6,213,214,49.9,0.8,9.7,89.1,98.8,48.8,51.2

@@ -1,0 +1,4 @@
+,season,TOT,age,corsi_for,corsi_against,corsi_pct,corsi_rel_pct,fenwick_for,fenwick_against,fenwick_pct,fenwick_rel_pct,on_ice_shot_pct,on_ice_sv_pct,pdo,zs_offense_pct,zs_defense_pct
+1,2014-15,NJD,20,825,803,50.7,3.7,612,631,49.2,3.2,6.4,91.5,98.0,45.5,54.5
+2,2015-16,NJD,21,892,950,48.4,3.6,696,745,48.3,2.7,8.1,91.9,100.,56.2,43.8
+3,2016-17,NJD,22,347,350,49.8,2.4,264,279,48.6,0.3,6.7,91.3,98.0,47.8,52.2
