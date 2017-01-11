@@ -1,6 +1,5 @@
 # Thesis
 
-
 Goal creation in ice hockey is complicated and difficult to understand. Unlike baseball, players and puck are always moving and a combination of players produces a goal. A team is always looking for a player who can contribute to team goals. National Hockey League has about 7000 goals per season. This study analyzes goals and assists in NHL to predict the number of goals of each player in the following season by finding most similar players in the past.
 
 I scraped NHL game documents from NHL Hockey Reference to get features of each player. The features include height, weight, draft positions, goals, assists and so on.

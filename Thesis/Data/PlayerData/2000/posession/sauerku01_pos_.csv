@@ -1,0 +1,4 @@
+,season,TOT,age,corsi_for,corsi_against,corsi_pct,corsi_rel_pct,fenwick_for,fenwick_against,fenwick_pct,fenwick_rel_pct,on_ice_shot_pct,on_ice_sv_pct,pdo,zs_offense_pct,zs_defense_pct
+1,2007-08,COL,27,574,714,44.6,-5.6,448,531,45.8,-6.1,11.4,93.7,105.,40.7,59.3
+2,2008-09,PHX,28,783,1171,40.1,-9.8,600,827,42.0,-7.0,8.2,92.3,100.,27.5,72.5
+3,2009-10,PHX,29,11,8,57.9,</td,9,8,52.9,</td,14.3,100.,114.,33.3,66.7

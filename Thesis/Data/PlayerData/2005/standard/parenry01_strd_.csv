@@ -1,0 +1,6 @@
+,season,TOT,age,games_played,pen_min,plus_minus,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shot_pct,shots_attempted,shot_pct,shots_attempted,time_on_ice_avg,hits,blocks,takeaways,giveaways
+1,2006-07,PHI,19,1,0,0,0,0,0,0,0,0,0,0.0,,0.0,,14:10,,,,
+2,2007-08,PHI,20,22,6,-4,0,0,0,0,0,0,0,0.0,20,0.0,20,14:59,23,17,1,12
+3,2008-09,PHI,21,31,10,3,0,0,0,0,4,0,0,0.0,34,0.0,34,18:12,33,39,16,25
+4,2009-10,PHI,22,48,20,-14,1,0,0,0,2,0,0,3.7,69,3.7,69,14:46,46,42,10,28
+5,2010-11,VAN,23,4,0,-3,0,0,0,0,0,0,0,0.0,8,0.0,8,13:54,4,7,0,2

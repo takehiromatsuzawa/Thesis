@@ -1,0 +1,6 @@
+,season,TOT,age,corsi_for,corsi_against,corsi_pct,corsi_rel_pct,fenwick_for,fenwick_against,fenwick_pct,fenwick_rel_pct,on_ice_shot_pct,on_ice_sv_pct,pdo,zs_offense_pct,zs_defense_pct
+1,2007-08,PIT,26,270,413,39.5,-7.0,216,311,41.0,-6.3,8.2,95.7,103.,44.0,56.0
+2,2008-09,PIT,27,32,42,43.2,2.0,26,35,42.6,-0.9,0.0,88.5,88.5,50.0,50.0
+3,2009-10,FLA,28,115,184,38.5,-6.7,87,129,40.3,-8.0,5.7,94.8,100.,41.8,58.2
+4,2010-11,CHI,29,0,1,0.0,</td,0,1,0.0,</td,</td,</td,</td,100.,0.0
+5,2011-12,MIN,30,44,78,36.1,5.0,32,58,35.6,5.3,18.2,97.6,115.,40.0,60.0
