@@ -1,5 +1,0 @@
-,season,TOT,age,corsi_for,corsi_against,corsi_pct,corsi_rel_pct,fenwick_for,fenwick_against,fenwick_pct,fenwick_rel_pct,on_ice_shot_pct,on_ice_sv_pct,pdo,zs_offense_pct,zs_defense_pct
-1,2012-13,WPG,24,133,90,59.6,9.6,98,64,60.5,8.3,4.5,90.0,94.5,49.2,50.8
-2,2013-14,WPG,25,138,128,51.9,-3.5,98,91,51.9,-0.9,8.8,91.1,99.9,58.7,41.3
-3,2014-15,COL,26,793,906,46.7,3.0,571,641,47.1,2.7,8.7,91.6,100.,50.5,49.5
-4,2015-16,COL,27,353,407,46.4,0.7,257,299,46.2,-0.2,9.6,93.1,102.,56.3,43.7

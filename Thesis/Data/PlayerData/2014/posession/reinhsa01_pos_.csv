@@ -1,4 +1,0 @@
-,season,TOT,age,corsi_for,corsi_against,corsi_pct,corsi_rel_pct,fenwick_for,fenwick_against,fenwick_pct,fenwick_rel_pct,on_ice_shot_pct,on_ice_sv_pct,pdo,zs_offense_pct,zs_defense_pct
-1,2014-15,BUF,19,55,97,36.2,0.9,41,76,35.0,1.5,3.7,96.4,100.,38.0,62.0
-2,2015-16,BUF,20,1030,973,51.4,5.2,774,748,50.9,4.3,7.5,91.4,98.9,52.6,47.4
-3,2016-17,BUF,21,279,263,51.5,4.3,204,209,49.4,2.1,5.7,93.2,98.8,56.7,43.3
