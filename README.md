@@ -1,6 +1,7 @@
 # Thesis
 
 Thesis Objective:
+
 The aims of this study were to predict the average number of points of each player in
 the next 5 games by looking at the statistics of an individual player, his team and his opponents
 in the previous 10 games. Subsequent to this study, I was able to find important
@@ -14,9 +15,11 @@ Then the paper seeks to minimize prediction errors and find significant features
 methods (Chapter 3). Finally the paper summarizes our main findings (Chapter 4).
 
 Methods:
+
 Ordinary Linear Regression, Lasso Regression, Ridge Regression, Elastic Regression, PCA ,Neural Networks Random Forest, Xgboost
 
 Findings
+
 1. Team shots are more significant than team goals to predict the number of points for
 a player.
 2. Assists are more significant features than goals to predict the average number of points.
